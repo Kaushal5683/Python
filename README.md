@@ -17,12 +17,7 @@ The repository is organized as follows:
 
 ## 🛠️ Projects Included
 
-### 1. **Project Name 1**
-- **Description:** Brief explanation of the project.
-- **Features:** Highlight key functionalities.
-- **How to Run:** Instructions to execute the script.
-
-### 2. **Project Name 2**
+###**Project Name 1**
 - **Description:** Brief explanation of the project.
 - **Features:** Highlight key functionalities.
 - **How to Run:** Instructions to execute the script.
@@ -67,8 +62,8 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 ## 📧 Contact
 
 For any queries or suggestions, you can reach me at:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** [kaushalgujarathi104@gmail.com](mailto:kaushalujarathi104@gmail.com)
+- **LinkedIn:** [kaushal-gujarathi104](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kaushal-gujarathi104/))
 
 ---
 
