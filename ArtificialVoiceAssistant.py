@@ -29,7 +29,7 @@ def listen():
             return ""
 
 def get_weather(city):
-    api_key = "fc66389e2f74780ba0cc48f14a77ac16"  # Replace with your OpenWeatherMap API key
+    api_key = ""  # Replace with your OpenWeatherMap API key
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
     complete_url = f"{base_url}q={city}&appid={api_key}&units=metric"
     
