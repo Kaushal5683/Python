@@ -17,7 +17,7 @@ The repository is organized as follows:
 
 ## 🛠️ Projects Included
 
-###**Project Name 1**
+###**Python**
 - **Description:** Brief explanation of the project.
 - **Features:** Highlight key functionalities.
 - **How to Run:** Instructions to execute the script.
